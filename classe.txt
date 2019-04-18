@@ -1,0 +1,14 @@
+Filiere
+		        Classe                  
+                        1er annee IIT                       
+                        2eme annee IIT
+Ingenierie  
+informatique            3eme annee IIT
+     et          
+telecom                 4eme annee IIT
+                        5eme annee IIT
+
+
+
+Informatique         1er annee IG
+de Gestion           2em annee IG 
