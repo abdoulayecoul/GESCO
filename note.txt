@@ -1,0 +1,6 @@
+nom		prénom		classe		note
+nimaga		alou		1er année	18
+diarra		mohamed		1er année	16
+munkoro		ali		1er année	18
+traore		fatoumata	1er année	14
+diakité		kaba		1er année	8
