@@ -1,0 +1,6 @@
+Prenom   Nom      classe  
+Moctar   Berthe   1er annee
+Salif    Diarra   1er annee
+Adama    Fane     1er annee
+Mariam   Konare   1er annee
+Sadio   toure     1er annee
